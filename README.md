@@ -1,7 +1,6 @@
 # Predicting Online Chess Game Outcomes with Machine Learning (KDD Process)
 
 **Project title:** To Predict the Outcome of Online Chess Games from Player Ratings, Time Controls, and Openings Using Machine Learning Following the KDD Process
-**Course:** Predictive Analytics  |  **Author:** [Your Name], Roll No. [____], Division [__]
 
 ---
 
